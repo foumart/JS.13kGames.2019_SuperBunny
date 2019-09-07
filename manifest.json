@@ -2,7 +2,7 @@
 	"name": "Super Bunny Strikes Back!",
 	"start_url": "index.html",
 	"serviceworker": {
-		"src": "sw.js"
+		"src": "serviceworker.js"
 	},
 	"icons": [
 		{
