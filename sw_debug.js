@@ -38,6 +38,7 @@ self.addEventListener('activate', event=>{
 });
 
 self.addEventListener('fetch', event=>{
+	if(event.request.cache === 'only-if-cached' && event.request.mode !== 'same-origin') return
 	event.respondWith(
 		caches.match(event.request).then(resp=>{
 			console.log('[ServiceWorker] Requesting', (resp?"(Response) "+resp.url:null)||event.request.url, version);
