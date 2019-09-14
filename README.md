@@ -2,9 +2,7 @@
 
 # Super Bunny Strikes Back!
 
-Help Kitty hopp through 13 stages in the dark forest to rescue Bunny lost !
-
-Once Super Bunny's back you can play with him in increased difficulty.
+Take Kitty on a quest to find Bunny lost! Journey though dark forests and snowy meadows, cross a great waterfall and pass through big city highway to finally reach the steppes and confront the Lion king! Clear the game to unlock Super Bunny and then hop with him at increased difficulty!
 
 <img src="https://www.foumartgames.com/games/SuperBunny/icon.png" height="48" width="48">
 
@@ -14,17 +12,13 @@ Inspired by Super Bunny - a game by Vic Leone, DataMost Inc. 1983
 
 
 
-### Game Submission Page: tbd
-### Game Entry Link: tbd
+### Game Submission Page: http://js13kgames.com/entries/super-bunny-strikes-back
+### Submission Entry Link: https://js13kgames.com/games/super-bunny-strikes-back/index.html
 
 Title page preview:
 
 ![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/title_screen_preview.gif)
 
-### Post-Compo Link: https://www.foumartgames.com/games/SuperBunny/
-
-Mobile icon preview:
-
-![Game Icon](https://www.foumartgames.com/games/SuperBunny/icon.png)
+### FoumartGames Link: https://www.foumartgames.com/games/SuperBunny/
 
 ---
