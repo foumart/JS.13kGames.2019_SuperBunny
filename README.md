@@ -2,8 +2,6 @@
 
 # Super Bunny Strikes Back!
 
-<img src="https://www.foumartgames.com/games/SuperBunny/icon.png" height="48" width="48">
-
 Take Kitty on a quest to find Bunny lost! Journey through dark forests and snowy meadows, pass through a great waterfall to finally reach the steppes and confront the Lion King! Clear the game to unlock Super Bunny and then hop with him at increased difficulty!
 
 ![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/bunny_jump.gif)
@@ -13,6 +11,8 @@ Player starts hopping from the left side of the screen to the right on scrolling
 Controls: [Arrow Keys] [A] [D] Movement
 
 Shortcuts: [R] Restart game, [F] Fullscreen, [S] Sound, [P] Pause
+
+<img src="https://www.foumartgames.com/games/SuperBunny/icon.png" height="48" width="48">
 
 The game is a Progressive Web App and can be installed on desktop PC or mobile device using Chrome web browser. If you are a Coil Subscriber and your browser supports Web Monetization you will get Super Bunny unlocked right away. Enjoy!
 
