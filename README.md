@@ -29,3 +29,13 @@ Title page preview:
 ### FoumartGames Link: https://www.foumartgames.com/games/SuperBunny/
 
 ---
+
+I updated my SoundFX lightweight library while working on this game:
+
+https://github.com/foumart/JS.13kGames/blob/master/lib/SoundFX.js
+
+JSFiddle: https://jsfiddle.net/Foumart/juo4km2r/
+
+an update Sound Effect Generator is coming shortly... stay tuned!
+
+---
