@@ -20,7 +20,7 @@ The game is a Progressive Web App and can be installed on desktop PC or mobile d
 Inspired by Super Bunny - a game by Vic Leone, DataMost Inc. 1983
 
 ### Game Submission Page: http://js13kgames.com/entries/super-bunny-strikes-back
-### Submission Entry Link: https://js13kgames.com/games/super-bunny-strikes-back/index.html
+#### Submission Entry Link: https://js13kgames.com/games/super-bunny-strikes-back/index.html
 
 Title page preview:
 
@@ -31,8 +31,7 @@ Screenshot:
 ![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/screen_3_thumb.jpg)
 
 ### Post-Compo Link: https://www.foumartgames.com/games/SuperBunny/
-
-### Blog Post: https://www.foumartgames.com/blog/12-JS13K-Games-2019-pt1-Image-Encryptor.html
+#### Blog Post: https://www.foumartgames.com/blog/12-JS13K-Games-2019-pt1-Image-Encryptor.html
 
 ![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/icon_225.png)
 
@@ -40,9 +39,8 @@ Screenshot:
 
 I updated my SoundFX lightweight library while working on this game:
 
-https://github.com/foumart/JS.13kGames/blob/master/lib/SoundFX.js
-
-JSFiddle: https://jsfiddle.net/Foumart/juo4km2r/
+### Github: https://github.com/foumart/JS.13kGames/blob/master/lib/SoundFX.js
+#### JSFiddle: https://jsfiddle.net/Foumart/juo4km2r/
 
 A new Sound Effect Generator is coming shortly... stay tuned!
 
