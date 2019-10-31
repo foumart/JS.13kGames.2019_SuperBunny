@@ -12,8 +12,6 @@ Controls: [Arrow Keys] [A] [D] Movement
 
 Shortcuts: [R] Restart game, [F] Fullscreen, [S] Sound, [P] Pause
 
-![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/animation_kitty.gif)
-
 The game is a Progressive Web App and can be installed on desktop PC or mobile device using Chrome web browser. If you are a Coil Subscriber and your browser supports Web Monetization you will get Super Bunny unlocked right away. Enjoy!
 
 Inspired by Super Bunny - a game by Vic Leone, DataMost Inc. 1983
@@ -24,13 +22,21 @@ Inspired by Super Bunny - a game by Vic Leone, DataMost Inc. 1983
 ### Game Submission Page: http://js13kgames.com/entries/super-bunny-strikes-back
 ### Submission Entry Link: https://js13kgames.com/games/super-bunny-strikes-back/index.html
 
+
 Title page preview:
 
 ![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/title_screen_preview.gif)
 
+
+Screenshot:
+
+![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/screen_3_thumb.jpg)
+
 ### FoumartGames Link: https://www.foumartgames.com/games/SuperBunny/
 
 ---
+
+![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/animation_kitty.gif)
 
 I updated my SoundFX lightweight library while working on this game:
 
