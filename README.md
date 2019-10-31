@@ -30,11 +30,9 @@ Screenshot:
 
 ![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/screen_3_thumb.jpg)
 
-Post-Compo Game Link:
+### Post-Compo Link: https://www.foumartgames.com/games/SuperBunny/
 
-### FoumartGames Link: https://www.foumartgames.com/games/SuperBunny/
-
-Blog Post: https://www.foumartgames.com/blog/12-JS13K-Games-2019-pt1-Image-Encryptor.html
+### Blog Post: https://www.foumartgames.com/blog/12-JS13K-Games-2019-pt1-Image-Encryptor.html
 
 ![Game Screenshots](https://www.foumartgames.com/games/SuperBunny/icon_225.png)
 
